@@ -20,7 +20,7 @@ In this project, different learning algorithms have been used to find the best a
  3. Random Forest
  4. Decision Trees
  
+ ## Coclusion
+ 
  ## Summary
  
- |  Method | Accuracy | Recall | Precision |
- |---|---|---|---|
